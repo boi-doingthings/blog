@@ -1,9 +1,9 @@
 ---
 toc: false
 layout: post
-description: A minimal example of using markdown with fastpages.
-categories: [markdown]
-title: An Example Markdown Post
+description: A list of places I have been.
+categories: [travel]
+title: My Travels
 ---
 # Travel Timeline
 
@@ -11,7 +11,7 @@ I am an avid traveller and is always up for the next trip with my friends.
 
 ## India
 
-<img src="https://www.mapsofindia.com/maps/india/india-political-map.gif"  width="300" height="300">
+<img src="https://www.mapsofindia.com/maps/india/india-political-map.gif" >
 
 ### Haryana
 - Kurukshetra
@@ -56,9 +56,13 @@ I am an avid traveller and is always up for the next trip with my friends.
     * Bhagsunag Falls
 
 ### Rajasthan
-
+- Jaipur
+- Udaipur
+- Kota
 
 ### Goa
+- North Goa
+- South Goa
 
 
 ### Maharashtra
@@ -75,9 +79,13 @@ I am an avid traveller and is always up for the next trip with my friends.
 
 
 ### Andhra Pradesh
+- Tirupati
+    * Sri Venkateshwara Temple (Balaji)
 
 
 ### Uttar Pradesh
+- Mathura
+    * Everywhere :)
 
 
 ### Madhya Pradesh
