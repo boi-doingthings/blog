@@ -62,8 +62,16 @@ I am an avid traveller and is always up for the next trip with my friends.
 
 ### Goa
 - North Goa
+    * Beaches
+        - Arambol
+        - Baga
+        - Calangute
+        - Candolim
 - South Goa
-
+    * Beaches
+        - Palolem (Fav)
+        - Agonda
+        - Morjim
 
 ### Maharashtra
 - Mumbai
@@ -76,6 +84,7 @@ I am an avid traveller and is always up for the next trip with my friends.
     * Nariman Point
     * Travel in Mumbai Local
 - Pune
+- Lonavala
 
 
 ### Andhra Pradesh
@@ -86,15 +95,23 @@ I am an avid traveller and is always up for the next trip with my friends.
 ### Uttar Pradesh
 - Mathura
     * Everywhere :)
-
+- Agra
+    * Taj Mahal
+    * Agra Fort 
+    * Akbar Tomb
 
 ### Madhya Pradesh
 - Indore
-- Ujjain
+    * 56 Food Street
+    * Sarafa Bazar (Over-Rated)
+    * Ralamandal Wildlife Sanctuary
 
+- Ujjain
+    * Mahakaleshwar Jyotirlinga
+    * Bhairo Baba Temple
 
 ### New Delhi
-
+- Almost Everywhere :)
 
 ### Karnataka
 - Uttar Kannada
